@@ -29,8 +29,15 @@ struct Entry* HASH_TABLE[DEFAULT_HASH_SIZE];
 
 void print_hash_table();
 
+int summ_of_digits()
+
 int hash_func(int key){
     return (key) % DEFAULT_HASH_SIZE;
+}
+
+
+int better_hash_func(int key){
+    return ()
 }
 
 void insert(int key, int data){

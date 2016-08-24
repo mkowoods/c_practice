@@ -13,3 +13,4 @@ Want to Implement the following algorithms(at least toy versions with interfaces
 - LU decomposition (any method).
 - Fisher-Yates Shuffle (and/or other set and permutation related algorithms).
 - Minimum Spanning Trees (e.g. Prim’s Algorithm).
+- standard xor neural network

@@ -14,3 +14,4 @@ Want to Implement the following algorithms(at least toy versions with interfaces
 - Fisher-Yates Shuffle (and/or other set and permutation related algorithms).
 - Minimum Spanning Trees (e.g. Prim’s Algorithm).
 - standard xor neural network
+- Boyer-Moore algorithm (from GNU grep)

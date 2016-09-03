@@ -3,7 +3,7 @@ Practicing C for world domination!
 
 Want to Implement the following algorithms(at least toy versions with interfaces)
 
-- [ ] Bubble sort, or in-place insertion sort (or any O(n^2) sort).
+- [x] Bubble sort, or in-place insertion sort (or any O(n^2) sort).
 - [ ] Quick sort or merge sort (or any O((log n) * n) sort).
 - [ ] Building and searching a balanced binary tree (or any tree construction and traversal methods).
 - [x] Building and using a hash table.

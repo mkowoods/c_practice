@@ -15,5 +15,6 @@ Want to Implement the following algorithms(at least toy versions with interfaces
 - [ ] Minimum Spanning Trees (e.g. Prim’s Algorithm).
 - [ ] standard xor neural network
 - [ ] Boyer-Moore algorithm (from GNU grep)
+- [ ] Make a web server http://beej.us/guide/bgnet/output/html/multipage/index.html
 
 http://www.mattababy.org/~belmonte/Teaching/CCC/CrashCourseC.html
